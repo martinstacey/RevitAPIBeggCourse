@@ -1,0 +1,2 @@
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\AddButton\AddButton\obj\Debug\AddButton.csprojAssemblyReference.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\AddButton\AddButton\obj\Debug\AddButton.csproj.CoreCompileInputs.cache

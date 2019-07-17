@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command AddButton</Text>
+    <Description>Some description for AddButton</Description>
+    <Assembly>AddButton.dll</Assembly>
+    <FullClassName>AddButton.Command</FullClassName>
+    <ClientId>c5ffa4c9-4788-4e4b-9513-956ac3ec4699</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application AddButton</Name>
+    <Assembly>AddButton.dll</Assembly>
+    <FullClassName>AddButton.App</FullClassName>
+    <ClientId>bc4091e1-a240-48c3-9576-63b60b516ec5</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
