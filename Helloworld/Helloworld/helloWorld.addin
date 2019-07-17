@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddins>
+  <AddIn Type="Command">
+    <Assembly> helloworld.dll </Assembly>
+    <AddInId> a991544d-1152-4469-8516-98cac41c6210</AddInId>
+    <FullClassName> helloworld.Class1</FullClassName>
+    <Text> helloWorld</Text>
+    <VendorDescription> Autodesk, www.autodesk.com </VendorDescription>
+  </AddIn>
+</RevitAddins>
+
