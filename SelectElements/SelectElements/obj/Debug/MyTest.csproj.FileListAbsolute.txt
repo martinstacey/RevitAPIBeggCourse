@@ -1,0 +1,6 @@
+C:\Users\Martin Stacey\Desktop\Revit Api\MyTest\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+C:\Users\Martin Stacey\Desktop\Revit Api\MyTest\MyTest\obj\Debug\MyTest.csproj.CoreCompileInputs.cache
+C:\Users\Martin Stacey\Desktop\Revit Api\MyTest\MyTest\bin\Debug\MyTest.dll
+C:\Users\Martin Stacey\Desktop\Revit Api\MyTest\MyTest\bin\Debug\MyTest.pdb
+C:\Users\Martin Stacey\Desktop\Revit Api\MyTest\MyTest\obj\Debug\MyTest.dll
+C:\Users\Martin Stacey\Desktop\Revit Api\MyTest\MyTest\obj\Debug\MyTest.pdb

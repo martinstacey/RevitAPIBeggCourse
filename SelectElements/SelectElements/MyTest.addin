@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+  <AddIn Type="Application">
+    <Name>Application MyTest</Name>
+    <Assembly>MyTest.dll</Assembly>
+    <FullClassName>MyTest.App</FullClassName>
+    <ClientId>c098b0e4-0eb9-46a1-99dc-a3f6d7358746</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
